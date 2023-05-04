@@ -12,7 +12,11 @@
 #### Course Certificates With IBM BAdges:
 
 **[Exploratory Data Analysis for Machine Learning (with Honors)](https://www.coursera.org/account/accomplishments/certificate/2Z89QJ2C84YE)
+
 **[Supervised Machine Learning: Regression](https://www.coursera.org/account/accomplishments/certificate/SXR8CN3K55C6)
+
 **[Supervised Machine Learning: Classification](https://www.coursera.org/account/accomplishments/certificate/Q5KNJRVT7Z46)
+
 **[Unsupervised Machine Learning](https://www.coursera.org/account/accomplishments/certificate/J2DZG2RBVSBQ)
+
 **[Deep Learning and Reinforcement Learning](https://www.coursera.org/account/accomplishments/certificate/WAJQQ8AF34UP)
