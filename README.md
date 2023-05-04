@@ -1,10 +1,10 @@
-# IBM_machine_learning
-## IBM Machine Learning Professional Certificate with Coursera
 
-### Course Detail
+# IBM Machine Learning Professional Certificate with Coursera
+
+### Course Detail:
 Machine Learning, Time Series & Survival Analysis. Develop working skills in the main areas of Machine Learning: Supervised Learning, Unsupervised Learning, Deep Learning, and Reinforcement Learning. Also gain practice in specialized topics such as Time Series Analysis and Survival Analysis.
 
-Linear Regression,Logistis Regression, Clustering and Deep Learning Like Neural Networks as ANN,CNN,RNN,LSTM,GAN,encoders.Moreover Reinforcement Learning examples.Computer vision projects **
+Linear Regression,Logistis Regression, Clustering and Deep Learning Like Neural Networks as ANN,CNN,RNN,LSTM,GAN,encoders.Moreover Reinforcement Learning examples.Computer vision projects 
 
 
 #### [Course Detail Link](https://www.ibm.com/training/badge/ibm-machine-learning-professional-certificate)
